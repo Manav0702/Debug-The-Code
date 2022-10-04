@@ -1,0 +1,30 @@
+Solve the bug in this program of binary search
+
+#include <stdio.h>
+int Search(int arr[], int lo, int hi, int item)
+{
+ int mid;
+ if (lo > hi)
+ return -1;
+ mid = (lo + hi) / 2;
+ if (arr[mid] == item)
+ return mid;
+ else if (arr[mid] > item)
+ Search(arr, mid-1, hi, item);
+ else if (arr[mid] < item)
+ Search(arr, lo, mid+1, item);
+}
+int main()
+{
+ int arr[] = { 10, 21, 23, 46, 75 };
+ int index = 0;
+ int item = 0;
+ printf("Enter item to search: ");
+ scanf("%d", &item);
+ index = Search(arr, 0, 5, item);
+ if (index == -1)
+ printf("Item not found in array\n");
+ else
+ printf("Item found at index %d\n", index);
+ return 0;
+}
