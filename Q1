@@ -1,0 +1,51 @@
+Four Questions are there 
+Print output of all four
+
+Q a) 
+
+#include <iostream>
+using namespace std;
+ 
+int main()
+{
+   int x = 20;
+   int y = 20;
+    
+   if (!(x ^ y))
+      cout << " x is equal to y ";
+   else
+      cout << " x is not equal to y ";
+       
+   return 0;
+}
+
+Q b) 
+
+#include<iostream>
+ 
+using namespace std;
+int main()
+{
+   int n = 4;
+   n = n >> 2;
+   cout << n;
+   return 0;
+}
+
+Q c)
+
+#include<iostream>
+ 
+using namespace std;
+int main()
+{
+    if (!(cout << "ACM"))
+    cout <<" Hello ";
+    else
+    cout << "olleH ";
+     
+    return 0;
+}
+
+Q d)
+
