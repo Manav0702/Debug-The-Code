@@ -1,0 +1,20 @@
+#This Code is printing left triangle but we 
+want right triangle so do the changes required
+
+using namespace std;
+
+int main() {
+    int rows, i, j;
+    cout << "Left Triangle Pattern\n";
+    cout << "Enter the no of rows : ";
+    cin>>rows;
+    for (i = 1; i <= rows; i++) {
+        for (j = 1; j <= i; j++) {
+            cout << "* ";
+        }
+        cout << "\n";
+    }
+
+    getch();
+    return 0;
+}
