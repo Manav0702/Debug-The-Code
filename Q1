@@ -47,5 +47,15 @@ int main()
     return 0;
 }
 
-Q d)
+Q d) Debug the Code to Solve the Error
+
+class Test {
+    int x=2; 
+};
+int main()
+{
+  Test t;
+  cout <<t.x;
+  return 0;
+}
 
