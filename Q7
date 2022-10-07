@@ -45,10 +45,10 @@ Bug Code:
         int *ans = new int[2];
         vector<int> freq(n+1,0);
         for(int i = 0; i < n; i++)
-            freq[arr[i]]++;
+            freq[arr[i]];
         
         for(int i = 1; i <= n; i++){
             if(freq[i] > 1) ans[0] = i;
-            if(!freq[i]) ans[1] = i; 
+            if(freq[i]) ans[1] = i; 
         }
         return ans;
