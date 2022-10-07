@@ -8,7 +8,7 @@
 
 - Do not discuss any strategy or logic of the program during a live contest 🔴
 
-- All Participants are expected to abide by the rules ®ulations of the contest 🏆
+- All Participants are expected to abide by the rules and Regulations of the contest 🏆
 
 - Any violation of the Rules & Regulations shall lead to the cancellation of the candidature from the competition 🚫
 
@@ -49,8 +49,21 @@ Q7 ----> https://forms.gle/9fsDmF33TTMxXvb66
 ----
 Q8 ----> https://forms.gle/VHwrtGcg4NYCzV1M8
 
+Rubrics
+----
 
-    
+| Questions      | Points  |
+|   :---:       | --------: |
+| Q1         | `100`   |
+| Q2         | `200`   |
+| Q3         | `200`   |
+| Q4         | `200`   |
+| Q5         | `200`   |
+| Q6         | `300`   |
+| Q7         | `300`   |
+| Q8         | `300`   |
+
+
 ## Queries
 
 For Queries, email manavsanghvi221@gmail.com or join our Discord channel.
