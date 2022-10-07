@@ -33,14 +33,14 @@ OR
 Submission Of Debugged Code
 ----
 
-Q1 ---->
-Q2 ---->
-Q3 ---->
-Q4 ---->
-Q5 ---->
-Q6 ---->
-Q7 ---->
-Q8 ---->
+Q1 ----> https://forms.gle/RYBojJV2zcabtwDi6
+Q2 ----> https://forms.gle/zDgj36CtNCfkYGcE6
+Q3 ----> https://forms.gle/2c2ncHXLgPVxefmE7
+Q4 ----> https://forms.gle/bZzXikcaWQbx2s2T7
+Q5 ----> https://forms.gle/PS2vTKgc8hQQ2SDT6
+Q6 ----> https://forms.gle/dUGtprkYjk6dVKQr9
+Q7 ----> https://forms.gle/9fsDmF33TTMxXvb66
+Q8 ----> https://forms.gle/VHwrtGcg4NYCzV1M8
 
 
     
