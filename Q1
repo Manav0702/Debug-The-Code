@@ -1,5 +1,6 @@
 Four Questions are there 
 Print output of all four
+Paste the output of a) b) c)
 
 Q a) 
 
@@ -48,6 +49,7 @@ int main()
 }
 
 Q d) Debug the Code to Solve the Error
+----Paste the Changed Code into the Form---- 
 
 class Test {
     int x=2; 
